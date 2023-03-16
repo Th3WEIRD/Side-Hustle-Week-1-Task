@@ -1,0 +1,30 @@
+body{
+    margin: 60px;
+    color: white;
+    background-color: rgb(24, 0, 24);
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#subheading{
+    color: rgb(233, 233, 8);
+    text-align: center;
+    font-size: xx-large;
+    text-transform: uppercase;
+
+}
+
+#section1{
+    margin: auto;
+    height: 30px;
+    width: 50%;
+    padding:20px;
+
+}
+
+#table{
+    margin: auto;
+    height: 40px;
+    width: 70%;
+    padding:30px;
+}
